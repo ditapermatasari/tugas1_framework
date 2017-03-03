@@ -19,7 +19,7 @@
 	<body>
 		<div class="container-fluid">
 			
-			<img src="logodita.jpg" class="img-responsive" alt="Image" width="500" height="500"> 
+			<img src="logodita.jpg" class="img-responsive"  width="500" height="500"> 
 			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<nav class="navbar navbar-default" role="navigation">
 					<div class="container-fluid">
